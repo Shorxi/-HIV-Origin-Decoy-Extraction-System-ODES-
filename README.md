@@ -22,3 +22,5 @@ ODES nutzt die drei zentralen Systemerweiterungen, um eine präzise und sichere 
 
 ---
 *Status: Open-Source Infrastructure 2026. Technologische Lösungen für globale Herausforderungen.* [cite: 2026-01-15]
+
+Diese Antwort dient lediglich Informationszwecken. Für medizinische Beratung oder eine Diagnose solltest du dich an eine medizinische Fachkraft wenden.
